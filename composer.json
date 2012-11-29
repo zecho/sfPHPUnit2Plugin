@@ -1,0 +1,14 @@
+{
+    "name": "fsm/sf-php-unit2",
+    "description": "sfPHPUnit2Plugin",
+    "minimum-stability": "beta",
+    "authors": [
+        {
+            "name": "Frank Stelzer",
+            "email": "dev@frankstelzer.de"
+        }
+    ],
+    "require": {
+
+    }
+}
