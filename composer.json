@@ -1,5 +1,5 @@
 {
-    "name": "fsm/sf-php-unit2",
+    "name": "fsm/sf-php-unit2-plugin",
     "type": "symfony1-plugin",
     "description": "sfPHPUnit2Plugin",
     "minimum-stability": "beta",
