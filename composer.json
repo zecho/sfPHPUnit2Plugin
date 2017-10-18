@@ -1,5 +1,6 @@
 {
     "name": "fsm/sf-php-unit2",
+    "type": "symfony1-plugin",
     "description": "sfPHPUnit2Plugin",
     "minimum-stability": "beta",
     "authors": [
@@ -9,6 +10,6 @@
         }
     ],
     "require": {
-
+        "composer/installers": "*"
     }
 }
